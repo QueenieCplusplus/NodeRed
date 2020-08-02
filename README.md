@@ -6,5 +6,5 @@
     1. `sudo npm install -g --unsafe-perm node-red`
     2. enter pw
     3. npm install
-    4. npm start
+    4. node-red
     5. Open <http://localhost:1880>
