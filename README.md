@@ -1,5 +1,8 @@
 # NodeRed
 
+        git clone https://github.com/node-red/node-red.git
+        cd node-red
+
     1. `sudo npm install -g --unsafe-perm node-red`
     2. enter pw
     3. Open <http://localhost:1880>
